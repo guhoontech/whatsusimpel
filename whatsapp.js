@@ -196,8 +196,8 @@ function CreateWhatsappChatWidget(option = {
       }
       .wa-chat-box-brand{
           margin-left: 20px;
-          width: 50px;
-          height: 50px;
+          width: 35px;
+          height: 35px;
           border-radius: 25px;
           box-shadow: 2px 2px 6px rgba(0,0,0,0.4);
       }
