@@ -1819,12 +1819,12 @@
                 ru: {
                     title: "Ð¡Ð´ÐµÐ»Ð°Ð½Ð¾",
                     preposition: "Ð½Ð°",
-                    href: "https://www.usimpel.com/"
+                    href: "https://bothelp.io/ru/?utm_source=widget-btn&utm_medium=plg&utm_campaign=powered+by&utm_content=ru"
                 },
                 en: {
                     title: "Powered",
                     preposition: "by",
-                    href: "https://www.usimpel.com/"
+                    href: "https://bothelp.io/?utm_source=widget-btn&utm_medium=plg&utm_campaign=powered+by&utm_content=eng"
                 }
             },
             _t = {
@@ -1972,10 +1972,10 @@
         }), zt.Z.locals;
         var Dt = Tt(Tt({}, At), {}, {
                 ru: Tt(Tt({}, At.ru), {}, {
-                    href: "https://bothelp.io/ru/widget-whatsapp?utm_source=whatsapp-btn&utm_medium=plg&utm_campaign=powered+by&utm_content=ru"
+                    href: "https://www.usimpel.com/"
                 }),
                 en: Tt(Tt({}, At.en), {}, {
-                    href: "https://bothelp.io/widget-whatsapp?utm_source=whatsapp-btn&utm_medium=plg&utm_campaign=powered+by&utm_content=eng"
+                    href: "https://www.usimpel.com/"
                 })
             }),
             It = function (e) {
